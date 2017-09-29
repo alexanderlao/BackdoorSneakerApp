@@ -10,14 +10,14 @@ Main Screen - The app has four main functionalities which are listed as purple b
 
 Bought a Sneaker - The user bought a sneaker, so they should enter its information. An example entry would be in the form:
 
-Brand: “Nike”
-Sneaker Name: “Air Jordan 1 Royal”
-Size: “11”
-Product Number: “555088-007”
-Retail Price: “160” (no dollar sign, this has to be a number)
-Price Paid: “244.53” (no dollar sign, this has to be a number)
-Date Bought: “04/01/17” (this is just a string, so enter the date to your preference)
-Quantity: “1” (this has to be a number)
+* Brand: “Nike”
+* Sneaker Name: “Air Jordan 1 Royal”
+* Size: “11”
+* Product Number: “555088-007”
+* Retail Price: “160” (no dollar sign, this has to be a number)
+* Price Paid: “244.53” (no dollar sign, this has to be a number)
+* Date Bought: “04/01/17” (this is just a string, so enter the date to your preference)
+* Quantity: “1” (this has to be a number)
 
 Tapping on “Add an Image” accesses your phone’s camera roll (after asking permission) and allows the user to select an image. The image will appear at the bottom of the fill out form after selection.
 
