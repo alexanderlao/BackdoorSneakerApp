@@ -4,6 +4,7 @@ Welcome to the Backdoor iOS application!
 The application name comes from the term “backdooring” which is commonly known among the sneaker community. The act of backdooring allows people to buy sneakers earlier than their intended release time by knowing someone who works at a sneaker retail store. Backdooring is commonly frowned upon in the sneaker community because it is generally unfair.
 
 Application Usage
+--------------
 
 Main Screen - The app has four main functionalities which are listed as purple buttons at the bottom of the screen. The three labels at the top of the screen (total spent, total sold, and total profit) are updated as sneakers are bought and sold. The blank space in the middle is reserved for pictures of the user’s collection. After some sneakers are added to the collection (through the “Bought a Sneaker” functionality or manually adding them in the “View Collection” view) their pictures will be displayed on the main screen at random.
 
